@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HackerKD</h1>
 <h3 align="center">A passionate frontend developer from SRI LANKA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackerkd-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="hackerkd-ghost" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hackerkd-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="hackerkd-ghost" /> </p>
 
 - 🔭 I’m currently working on **Hacking projects**
 
@@ -20,6 +20,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackerkd-ghost&show_icons=true&locale=en" alt="hackerkd-ghost" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerkd-ghost&" alt="hackerkd-ghost" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hackerkd-ghost&show_icons=true&locale=en" alt="hackerkd-ghost" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerkd-ghost&" alt="hackerkd-ghost" /></p>
+
 

@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web development / Python Tools**
 
-- ⚡ Fun fact **Call me as MR-KD**
+- ⚡ Fun fact **Call me as MR KD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

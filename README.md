@@ -7,7 +7,8 @@
 <td width="50%" align="left">
   
 - 🌱 I’m currently learning **PYTHON,C#,C++,GDSCRIPT**
-
+  
+- 🧑‍🎓 I’m an Undergraduate at **SCHOOL**
 
 - 💬 Ask me about **WEB DEVELOPMENT/PYTHON TOOL**
 
